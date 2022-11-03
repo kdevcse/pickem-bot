@@ -1,0 +1,18 @@
+{
+  "name": "nflpickem_bot",
+  "version": "1.0.0",
+  "description": "A bot to generate NFL picks based on betting odds",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NFL"
+  ],
+  "author": "kdevcse",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
