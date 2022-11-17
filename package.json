@@ -13,6 +13,7 @@
   "author": "kdevcse",
   "license": "MIT",
   "dependencies": {
+    "brain.js": "^2.0.0-beta.17",
     "dotenv": "^16.0.3"
   }
 }

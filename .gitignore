@@ -1,1 +1,4 @@
 .env
+*.csv
+response.json
+node_modules
